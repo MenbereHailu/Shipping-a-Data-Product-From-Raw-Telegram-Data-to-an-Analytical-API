@@ -1,0 +1,15 @@
+# for cloud DBT configuration 
+version: "1"
+context:
+  active-host: "ck852.us1.dbt.com"
+  active-project: "70471823424525"
+projects:
+  - project-name: "Analytics"
+    project-id: "70471823424525"
+    account-name: "University of Gondar"
+    account-id: "70471823421342"
+    account-host: "ck852.us1.dbt.com"
+    token-name: "cloud-cli-bdaa"
+    token-value: "dbtu_rK7KHFc7rMKioTsJIt-6XSmPN6aadzpw8_wwTrwQslJDGIAU1A"
+
+
